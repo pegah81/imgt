@@ -1,0 +1,15 @@
+digraph G {
+node [ shape=oval fontsize=10 fontcolor=black color="#FFC996" style=filled]
+edge [fontsize=8, color="#046582"]
+rankdir=""
+
+"obo:NCIT_C13303" -> "obo:NCIT_C41207"  [label=":isStructOfChain"]
+"obo:NCIT_C13303" -> "sio:SIO_001100"  [label="isInCrystal"]
+"obo:NCIT_C13303" -> ":ImgtLabel"  [label=":hasImgtLabel"]
+"obo:NCIT_C13303" -> "obo:GENO_0000722"  [label=":hasEntry"]
+"obo:NCIT_C13303" -> ":MolecularComponent"  [label=":hasMolComp"]
+"obo:GENO_0000722" ->"obo:NCIT_C25402" [label="obo:ERO_0000405"]
+"obo:GENO_0000722" ->"bibo:Article" [label=":hasBiblioRef"]
+"obo:GENO_0000722" ->":OBTENTION" [label=":isObtainedFrom"]
+
+}

@@ -1,0 +1,150 @@
+/* styles.css */
+
+.page-title {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+  color: #333;
+}
+.title {
+  font-size: 24px;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
+.text-body-2 {
+  font-size: 16px;
+}
+.chip {
+  display: inline-block;
+  padding: 0 8px;
+  border-radius: 5px;
+  background-color: #f3e5ff;
+  color: white;
+  font-size: 14px;
+  margin: 2px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.chip:hover {
+  color: red;
+}
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+.card-content {
+  font-size: 16px;
+  margin-top: 10px;
+}
+.card-content strong {
+  font-weight: 670;
+}
+.card-img {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+.card-footer {
+  margin-top: 20px;
+}
+.container {
+  padding: 1px;
+}
+.sidebar-link {
+  display: block;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  width: 100%;
+}
+.sidebar-link:hover {
+  background-color: #004d40;
+  color: white;
+  border-radius: 4px;
+}
+.page-title .highlight {
+  color: #616569;
+}
+.code-block {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  overflow-x: auto;
+  font-family: monospace;
+  color: #333;
+  font-size: 14px;
+}
+.table-1 {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table-1 th,
+.table-1 td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+.table-1 th {
+  background-color: #f2f2f2;
+}
+.query-item-example {
+  padding: 10px;
+  cursor: pointer;
+  color: rgb(83, 81, 81);
+}
+.query-item-example:hover {
+  background-color: lightgray;
+}
+button.green-button {
+  font-size: 17px;
+  text-align: center;
+  font-weight: bold;
+  background-color: #23d64a;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  text-transform: uppercase;
+}
+button.green-button:hover {
+  background-color: #0062cc;
+}
+button.green-button:active {
+  background-color: #005cbf;
+}
+.profile_icon {
+  width: 20px;
+  vertical-align: middle;
+}
+.email_background {
+  background-color: #f3e5ff;
+  padding: 4px;
+  border-radius: 5px;
+}
+.team_card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  min-height: 410px;
+  max-width: 400px;
+  margin: 10px auto;
+}
+.team_img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}

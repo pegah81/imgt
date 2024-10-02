@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550pt" height="484pt" viewBox="0.00 0.00 549.87 484.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 480)">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-480 545.8737,-480 545.8737,4 -4,4"/>
+<!-- obo:NCIT_C41207 -->
+<g id="node1" class="node">
+<title>obo:NCIT_C41207</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="266.9504" cy="-194" rx="56.2799" ry="18"/>
+<text text-anchor="middle" x="266.9504" y="-191" font-family="Times,serif" font-size="10.00" fill="#000000">obo:NCIT_C41207</text>
+</g>
+<!-- obo:NCIT_C13303 -->
+<g id="node2" class="node">
+<title>obo:NCIT_C13303</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="484.8205" cy="-193" rx="56.2799" ry="18"/>
+<text text-anchor="middle" x="484.8205" y="-190" font-family="Times,serif" font-size="10.00" fill="#000000">obo:NCIT_C13303</text>
+</g>
+<!-- obo:NCIT_C41207&#45;&gt;obo:NCIT_C13303 -->
+<g id="edge1" class="edge">
+<title>obo:NCIT_C41207-&gt;obo:NCIT_C13303</title>
+<path fill="none" stroke="#046582" d="M323.3407,-193.7412C352.3396,-193.6081 387.871,-193.445 418.214,-193.3057"/>
+<polygon fill="#046582" stroke="#046582" points="418.3046,-196.8054 428.2884,-193.2595 418.2724,-189.8055 418.3046,-196.8054"/>
+<text text-anchor="middle" x="375.5538" y="-195.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isChainInStruct</text>
+</g>
+<!-- :ImgtLabel -->
+<g id="node3" class="node">
+<title>:ImgtLabel</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="484.8205" cy="-136" rx="36.1808" ry="18"/>
+<text text-anchor="middle" x="484.8205" y="-133" font-family="Times,serif" font-size="10.00" fill="#000000">:ImgtLabel</text>
+</g>
+<!-- obo:NCIT_C41207&#45;&gt;:ImgtLabel -->
+<g id="edge2" class="edge">
+<title>obo:NCIT_C41207-&gt;:ImgtLabel</title>
+<path fill="none" stroke="#046582" d="M310.516,-182.4022C349.0457,-172.1451 404.8887,-157.2789 442.9115,-147.1567"/>
+<polygon fill="#046582" stroke="#046582" points="443.8899,-150.5183 452.6529,-144.5635 442.089,-143.7539 443.8899,-150.5183"/>
+<text text-anchor="middle" x="375.5538" y="-175.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasImgtLabel</text>
+</g>
+<!-- obo:NCBITaxon_1 -->
+<g id="node4" class="node">
+<title>obo:NCBITaxon_1</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="484.8205" cy="-247" rx="56.105" ry="18"/>
+<text text-anchor="middle" x="484.8205" y="-244" font-family="Times,serif" font-size="10.00" fill="#000000">obo:NCBITaxon_1</text>
+</g>
+<!-- obo:NCIT_C41207&#45;&gt;obo:NCBITaxon_1 -->
+<g id="edge3" class="edge">
+<title>obo:NCIT_C41207-&gt;obo:NCBITaxon_1</title>
+<path fill="none" stroke="#046582" d="M311.829,-204.9174C346.1017,-213.2547 393.4941,-224.7836 430.0093,-233.6664"/>
+<polygon fill="#046582" stroke="#046582" points="429.4561,-237.1338 440.0001,-236.0968 431.1108,-230.3322 429.4561,-237.1338"/>
+<text text-anchor="middle" x="375.5538" y="-230.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:RO_0002162</text>
+</g>
+<!-- faldo:ExactPosition -->
+<g id="node5" class="node">
+<title>faldo:ExactPosition</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="484.8205" cy="-302" rx="57.1063" ry="18"/>
+<text text-anchor="middle" x="484.8205" y="-299" font-family="Times,serif" font-size="10.00" fill="#000000">faldo:ExactPosition</text>
+</g>
+<!-- obo:NCIT_C41207&#45;&gt;faldo:ExactPosition -->
+<g id="edge4" class="edge">
+<title>obo:NCIT_C41207-&gt;faldo:ExactPosition</title>
+<path fill="none" stroke="#046582" d="M302.2655,-208.1233C309.5668,-211.7927 316.9672,-216.1112 323.3402,-221 333.0937,-228.482 331.401,-234.7665 341.3402,-242 368.6798,-261.897 403.6073,-276.6857 432.156,-286.6024"/>
+<polygon fill="#046582" stroke="#046582" points="431.371,-290.0312 441.9651,-289.9073 433.606,-283.3976 431.371,-290.0312"/>
+<text text-anchor="middle" x="375.5538" y="-279.4" font-family="Times,serif" font-size="8.00" fill="#000000">faldo:location</text>
+</g>
+<!-- faldo:Region -->
+<g id="node6" class="node">
+<title>faldo:Region</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="56.3899" cy="-380" rx="41.0381" ry="18"/>
+<text text-anchor="middle" x="56.3899" y="-377" font-family="Times,serif" font-size="10.00" fill="#000000">faldo:Region</text>
+</g>
+<!-- faldo:Region&#45;&gt;obo:NCIT_C41207 -->
+<g id="edge5" class="edge">
+<title>faldo:Region-&gt;obo:NCIT_C41207</title>
+<path fill="none" stroke="#046582" d="M77.1853,-364.0321C105.6376,-341.4725 157.1943,-297.9799 192.5605,-253 202.6464,-240.1724 198.6485,-232.1524 210.5605,-221 213.8129,-217.955 217.472,-215.1923 221.3238,-212.6997"/>
+<polygon fill="#046582" stroke="#046582" points="223.0928,-215.7199 229.9808,-207.6697 219.576,-209.6674 223.0928,-215.7199"/>
+<text text-anchor="middle" x="161.6701" y="-317.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:BFO_0000050</text>
+</g>
+<!-- faldo:Region&#45;&gt;faldo:ExactPosition -->
+<g id="edge7" class="edge">
+<title>faldo:Region-&gt;faldo:ExactPosition</title>
+<path fill="none" stroke="#046582" d="M94.4102,-373.078C169.1458,-359.4717 335.6851,-329.1516 425.1911,-312.8561"/>
+<polygon fill="#046582" stroke="#046582" points="425.9754,-316.271 435.1867,-311.0363 424.7215,-309.3842 425.9754,-316.271"/>
+<text text-anchor="middle" x="266.9504" y="-353.4" font-family="Times,serif" font-size="8.00" fill="#000000">faldo:location</text>
+</g>
+<!-- :Allele -->
+<g id="node7" class="node">
+<title>:Allele</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="484.8205" cy="-458" rx="27" ry="18"/>
+<text text-anchor="middle" x="484.8205" y="-455" font-family="Times,serif" font-size="10.00" fill="#000000">:Allele</text>
+</g>
+<!-- faldo:Region&#45;&gt;:Allele -->
+<g id="edge6" class="edge">
+<title>faldo:Region-&gt;:Allele</title>
+<path fill="none" stroke="#046582" d="M85.8096,-392.675C99.3782,-398.3106 115.7715,-404.8257 130.7797,-410 165.6667,-422.0279 174.3215,-426.0351 210.5605,-433 267.9215,-444.0244 283.1725,-440.6768 341.3402,-446 377.4774,-449.3071 418.7694,-452.7223 447.749,-455.0596"/>
+<polygon fill="#046582" stroke="#046582" points="447.5881,-458.5579 457.8362,-455.8697 448.1485,-451.5803 447.5881,-458.5579"/>
+<text text-anchor="middle" x="266.9504" y="-446.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isRefSeqOf</text>
+</g>
+<g id="node8" class="node">
+<title/>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="266.9504" cy="-406" rx="27" ry="18"/>
+</g>
+<!-- faldo:Region&#45;&gt; -->
+<g id="edge8" class="edge">
+<title>faldo:Region-&gt;</title>
+<path fill="none" stroke="#046582" d="M95.9947,-384.8904C134.5423,-389.6503 192.648,-396.8251 230.1944,-401.4614"/>
+<polygon fill="#046582" stroke="#046582" points="229.8524,-404.9456 240.2059,-402.6976 230.7103,-397.9984 229.8524,-404.9456"/>
+<text text-anchor="middle" x="161.6701" y="-398.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasAlignement</text>
+</g>
+<!-- &#45;&gt;:Allele -->
+<g id="edge9" class="edge">
+<title>-&gt;:Allele</title>
+<path fill="none" stroke="#046582" d="M293.1381,-410.9985C321.8777,-416.6178 369.3115,-426.2861 409.7674,-436.4 423.1568,-439.7473 437.7643,-443.8477 450.5043,-447.573"/>
+<polygon fill="#046582" stroke="#046582" points="449.6802,-450.979 460.2622,-450.4587 451.6654,-444.2664 449.6802,-450.979"/>
+<text text-anchor="middle" x="375.5538" y="-438.4" font-family="Times,serif" font-size="8.00" fill="#000000">:forAllele</text>
+</g>
+<!-- xsd:Double -->
+<g id="node9" class="node">
+<title>xsd:Double</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="484.8205" cy="-402" rx="37.1928" ry="18"/>
+<text text-anchor="middle" x="484.8205" y="-399" font-family="Times,serif" font-size="10.00" fill="#000000">xsd:Double</text>
+</g>
+<!-- &#45;&gt;xsd:Double -->
+<g id="edge10" class="edge">
+<title>-&gt;xsd:Double</title>
+<path fill="none" stroke="#046582" d="M294.1514,-404.885C308.2336,-404.3494 325.7075,-403.7494 341.3402,-403.4 373.2509,-402.6868 409.1617,-402.3368 437.0745,-402.1651"/>
+<polygon fill="#046582" stroke="#046582" points="437.3754,-405.6636 447.3557,-402.1076 437.3362,-398.6637 437.3754,-405.6636"/>
+<text text-anchor="middle" x="375.5538" y="-405.4" font-family="Times,serif" font-size="8.00" fill="#000000">:has_similarity_score</text>
+</g>
+<!-- obo:NCIT_C13379 -->
+<g id="node10" class="node">
+<title>obo:NCIT_C13379</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="56.3899" cy="-226" rx="56.2799" ry="18"/>
+<text text-anchor="middle" x="56.3899" y="-223" font-family="Times,serif" font-size="10.00" fill="#000000">obo:NCIT_C13379</text>
+</g>
+<!-- obo:NCIT_C13379&#45;&gt;obo:NCIT_C41207 -->
+<g id="edge11" class="edge">
+<title>obo:NCIT_C13379-&gt;obo:NCIT_C41207</title>
+<path fill="none" stroke="#046582" d="M107.3607,-218.2537C137.0134,-213.7472 174.5816,-208.0378 205.818,-203.2906"/>
+<polygon fill="#046582" stroke="#046582" points="206.3585,-206.7487 215.7191,-201.7859 205.3067,-199.8282 206.3585,-206.7487"/>
+<text text-anchor="middle" x="161.6701" y="-215.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isDomainInChain</text>
+</g>
+<!-- obo:NCIT_C13379&#45;&gt;:ImgtLabel -->
+<g id="edge12" class="edge">
+<title>obo:NCIT_C13379-&gt;:ImgtLabel</title>
+<path fill="none" stroke="#046582" d="M84.0432,-210.2134C114.121,-193.8875 164.1303,-169.1697 210.5605,-157.4 288.6287,-137.6103 382.8511,-134.6066 438.071,-134.8614"/>
+<polygon fill="#046582" stroke="#046582" points="438.2175,-138.3626 448.2468,-134.9476 438.2769,-131.3629 438.2175,-138.3626"/>
+<text text-anchor="middle" x="266.9504" y="-159.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasImgtLabel</text>
+</g>
+<!-- obo:NCIT_C13379&#45;&gt;faldo:ExactPosition -->
+<g id="edge13" class="edge">
+<title>obo:NCIT_C13379-&gt;faldo:ExactPosition</title>
+<path fill="none" stroke="#046582" d="M92.8943,-239.9008C104.8937,-244.2952 118.3441,-249.0355 130.7797,-253 165.8235,-264.1721 174.4003,-268.2677 210.5605,-275 267.9845,-285.6913 283.2107,-282.2749 341.3402,-288 367.0626,-290.5334 395.3812,-293.3011 420.0155,-295.7018"/>
+<polygon fill="#046582" stroke="#046582" points="419.6791,-299.1855 429.9714,-296.6716 420.3579,-292.2185 419.6791,-299.1855"/>
+<text text-anchor="middle" x="266.9504" y="-288.4" font-family="Times,serif" font-size="8.00" fill="#000000">faldo:location</text>
+</g>
+<!-- :DomainType -->
+<g id="node11" class="node">
+<title>:DomainType</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="266.9504" cy="-248" rx="43.043" ry="18"/>
+<text text-anchor="middle" x="266.9504" y="-245" font-family="Times,serif" font-size="10.00" fill="#000000">:DomainType</text>
+</g>
+<!-- obo:NCIT_C13379&#45;&gt;:DomainType -->
+<g id="edge14" class="edge">
+<title>obo:NCIT_C13379-&gt;:DomainType</title>
+<path fill="none" stroke="#046582" d="M110.068,-231.6085C142.2817,-234.9742 183.0589,-239.2348 214.9657,-242.5685"/>
+<polygon fill="#046582" stroke="#046582" points="214.6817,-246.0578 224.9913,-243.616 215.4092,-239.0957 214.6817,-246.0578"/>
+<text text-anchor="middle" x="161.6701" y="-241.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasDomainType</text>
+</g>
+<!-- obo:NCIT_C48795 -->
+<g id="node12" class="node">
+<title>obo:NCIT_C48795</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="56.3899" cy="-72" rx="56.2799" ry="18"/>
+<text text-anchor="middle" x="56.3899" y="-69" font-family="Times,serif" font-size="10.00" fill="#000000">obo:NCIT_C48795</text>
+</g>
+<!-- obo:NCIT_C48795&#45;&gt;obo:NCIT_C41207 -->
+<g id="edge15" class="edge">
+<title>obo:NCIT_C48795-&gt;obo:NCIT_C41207</title>
+<path fill="none" stroke="#046582" d="M83.917,-87.9494C121.5122,-109.7323 188.9949,-148.8321 230.6793,-172.9844"/>
+<polygon fill="#046582" stroke="#046582" points="229.0092,-176.0617 239.4165,-178.0467 232.5186,-170.0049 229.0092,-176.0617"/>
+<text text-anchor="middle" x="161.6701" y="-149.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isResInChain</text>
+</g>
+<!-- :NUMBERING -->
+<g id="node13" class="node">
+<title>:NUMBERING</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="266.9504" cy="-72" rx="47.8971" ry="18"/>
+<text text-anchor="middle" x="266.9504" y="-69" font-family="Times,serif" font-size="10.00" fill="#000000">:NUMBERING</text>
+</g>
+<!-- obo:NCIT_C48795&#45;&gt;:NUMBERING -->
+<g id="edge16" class="edge">
+<title>obo:NCIT_C48795-&gt;:NUMBERING</title>
+<path fill="none" stroke="#046582" d="M112.8162,-72C142.4559,-72 178.7336,-72 208.6466,-72"/>
+<polygon fill="#046582" stroke="#046582" points="208.9404,-75.5001 218.9404,-72 208.9404,-68.5001 208.9404,-75.5001"/>
+<text text-anchor="middle" x="161.6701" y="-74.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasNumbering</text>
+</g>
+<!-- obo:CHEBI_33709 -->
+<g id="node14" class="node">
+<title>obo:CHEBI_33709</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="266.9504" cy="-18" rx="56.2799" ry="18"/>
+<text text-anchor="middle" x="266.9504" y="-15" font-family="Times,serif" font-size="10.00" fill="#000000">obo:CHEBI_33709</text>
+</g>
+<!-- obo:NCIT_C48795&#45;&gt;obo:CHEBI_33709 -->
+<g id="edge17" class="edge">
+<title>obo:NCIT_C48795-&gt;obo:CHEBI_33709</title>
+<path fill="none" stroke="#046582" d="M100.5302,-60.6798C133.238,-52.2917 177.994,-40.8136 212.8549,-31.8732"/>
+<polygon fill="#046582" stroke="#046582" points="214.051,-35.1798 222.8681,-29.3053 212.3121,-28.3992 214.051,-35.1798"/>
+<text text-anchor="middle" x="161.6701" y="-53.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasAminoAcid</text>
+</g>
+</g>
+</svg>

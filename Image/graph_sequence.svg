@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="521pt" height="278pt" viewBox="0.00 0.00 520.95 278.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 274)">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-274 516.9451,-274 516.9451,4 -4,4"/>
+<!-- faldo:Region -->
+<g id="node1" class="node">
+<title>faldo:Region</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="41.0191" cy="-153" rx="41.0381" ry="18"/>
+<text text-anchor="middle" x="41.0191" y="-150" font-family="Times,serif" font-size="10.00" fill="#000000">faldo:Region</text>
+</g>
+<!-- faldo:Region&#45;&gt;faldo:Region -->
+<g id="edge6" class="edge">
+<title>faldo:Region-&gt;faldo:Region</title>
+<path fill="none" stroke="#046582" d="M35.7124,-171.1527C34.896,-180.5391 36.6649,-189 41.0191,-189 43.6724,-189 45.3657,-185.8581 46.099,-181.2796"/>
+<polygon fill="#046582" stroke="#046582" points="49.6009,-181.2286 46.3257,-171.1527 42.6026,-181.0718 49.6009,-181.2286"/>
+<text text-anchor="middle" x="41.0191" y="-191.4" font-family="Times,serif" font-size="8.00" fill="#000000">allenRelations</text>
+</g>
+<!-- faldo:Region&#45;&gt;faldo:Region -->
+<g id="edge7" class="edge">
+<title>faldo:Region-&gt;faldo:Region</title>
+<path fill="none" stroke="#046582" d="M32.2776,-170.6991C27.449,-187.9958 30.3628,-207 41.0191,-207 49.594,-207 53.1556,-194.6944 51.7037,-180.875"/>
+<polygon fill="#046582" stroke="#046582" points="55.0742,-179.8651 49.7605,-170.6991 48.1984,-181.1781 55.0742,-179.8651"/>
+<text text-anchor="middle" x="41.0191" y="-209.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isInCluster</text>
+</g>
+<!-- faldo:Region&#45;&gt;faldo:Region -->
+<g id="edge8" class="edge">
+<title>faldo:Region-&gt;faldo:Region</title>
+<path fill="none" stroke="#046582" d="M30.0338,-170.7154C19.9979,-195.1143 23.6597,-225 41.0191,-225 56.1407,-225 60.8685,-202.3226 55.2025,-180.3486"/>
+<polygon fill="#046582" stroke="#046582" points="58.4769,-179.1032 52.0043,-170.7154 51.8335,-181.3088 58.4769,-179.1032"/>
+<text text-anchor="middle" x="41.0191" y="-227.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isInPrototype</text>
+</g>
+<!-- :Allele -->
+<g id="node2" class="node">
+<title>:Allele</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="240.8818" cy="-252" rx="27" ry="18"/>
+<text text-anchor="middle" x="240.8818" y="-249" font-family="Times,serif" font-size="10.00" fill="#000000">:Allele</text>
+</g>
+<!-- faldo:Region&#45;&gt;:Allele -->
+<g id="edge1" class="edge">
+<title>faldo:Region-&gt;:Allele</title>
+<path fill="none" stroke="#046582" d="M52.5393,-170.3089C63.1709,-184.9252 80.2711,-205.2926 100.0381,-217 132.1323,-236.0085 174.2089,-244.7368 203.9889,-248.718"/>
+<polygon fill="#046582" stroke="#046582" points="203.6225,-252.1992 213.9731,-249.9373 204.4711,-245.2508 203.6225,-252.1992"/>
+<text text-anchor="middle" x="130.9285" y="-242.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isRefSeqOf</text>
+</g>
+<!-- obo:GENO_0000960 -->
+<g id="node3" class="node">
+<title>obo:GENO_0000960</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="240.8818" cy="-186" rx="61.1258" ry="18"/>
+<text text-anchor="middle" x="240.8818" y="-183" font-family="Times,serif" font-size="10.00" fill="#000000">obo:GENO_0000960</text>
+</g>
+<!-- faldo:Region&#45;&gt;obo:GENO_0000960 -->
+<g id="edge2" class="edge">
+<title>faldo:Region-&gt;obo:GENO_0000960</title>
+<path fill="none" stroke="#046582" d="M57.3803,-169.7803C68.3749,-179.805 83.7834,-191.6077 100.0381,-197 127.4918,-206.1075 159.5414,-204.4892 186.126,-200.0947"/>
+<polygon fill="#046582" stroke="#046582" points="186.8155,-203.5268 196.0262,-198.2911 185.5608,-196.6401 186.8155,-203.5268"/>
+<text text-anchor="middle" x="130.9285" y="-205.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:BFO_0000050</text>
+</g>
+<!-- faldo:Region&#45;&gt;obo:GENO_0000960 -->
+<g id="edge3" class="edge">
+<title>faldo:Region-&gt;obo:GENO_0000960</title>
+<path fill="none" stroke="#046582" d="M78.7713,-160.2065C85.8322,-161.506 93.155,-162.8213 100.0381,-164 124.9041,-168.2584 152.2991,-172.6137 176.2662,-176.3136"/>
+<polygon fill="#046582" stroke="#046582" points="175.895,-179.7976 186.3106,-177.8569 176.9582,-172.8788 175.895,-179.7976"/>
+<text text-anchor="middle" x="130.9285" y="-176.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isPrototypeInSeq</text>
+</g>
+<!-- faldo:Region&#45;&gt;obo:GENO_0000960 -->
+<g id="edge4" class="edge">
+<title>faldo:Region-&gt;obo:GENO_0000960</title>
+<path fill="none" stroke="#046582" d="M81.3993,-149.2697C105.0587,-148.0398 135.3918,-148.1199 161.8189,-153.4 175.0305,-156.0396 188.8098,-160.9039 201.0944,-166.0841"/>
+<polygon fill="#046582" stroke="#046582" points="200.0244,-169.4375 210.5865,-170.2698 202.8488,-163.0325 200.0244,-169.4375"/>
+<text text-anchor="middle" x="130.9285" y="-155.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isClusterInSeq</text>
+</g>
+<!-- :PartialityType -->
+<g id="node5" class="node">
+<title>:PartialityType</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="240.8818" cy="-126" rx="45.8897" ry="18"/>
+<text text-anchor="middle" x="240.8818" y="-123" font-family="Times,serif" font-size="10.00" fill="#000000">:PartialityType</text>
+</g>
+<!-- faldo:Region&#45;&gt;:PartialityType -->
+<g id="edge9" class="edge">
+<title>faldo:Region-&gt;:PartialityType</title>
+<path fill="none" stroke="#046582" d="M63.2102,-137.7611C73.8472,-131.3594 87.0738,-124.6523 100.0381,-121.4 128.8651,-114.1684 162.0488,-114.8359 188.9631,-117.5341"/>
+<polygon fill="#046582" stroke="#046582" points="188.621,-121.0176 198.9491,-118.6555 189.4022,-114.0614 188.621,-121.0176"/>
+<text text-anchor="middle" x="130.9285" y="-123.4" font-family="Times,serif" font-size="8.00" fill="#000000">:partiality</text>
+</g>
+<!-- :ImgtLabel -->
+<g id="node6" class="node">
+<title>:ImgtLabel</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="240.8818" cy="-72" rx="36.1808" ry="18"/>
+<text text-anchor="middle" x="240.8818" y="-69" font-family="Times,serif" font-size="10.00" fill="#000000">:ImgtLabel</text>
+</g>
+<!-- faldo:Region&#45;&gt;:ImgtLabel -->
+<g id="edge10" class="edge">
+<title>faldo:Region-&gt;:ImgtLabel</title>
+<path fill="none" stroke="#046582" d="M55.8851,-136.0502C66.9303,-124.5309 82.9822,-109.8951 100.0381,-101.4 129.6098,-86.671 166.2185,-79.3138 194.7002,-75.6427"/>
+<polygon fill="#046582" stroke="#046582" points="195.2772,-79.099 204.7977,-74.4502 194.4562,-72.1473 195.2772,-79.099"/>
+<text text-anchor="middle" x="130.9285" y="-103.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasImgtLabel</text>
+</g>
+<!-- faldo:ExactPosition -->
+<g id="node7" class="node">
+<title>faldo:ExactPosition</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="240.8818" cy="-18" rx="57.1063" ry="18"/>
+<text text-anchor="middle" x="240.8818" y="-15" font-family="Times,serif" font-size="10.00" fill="#000000">faldo:ExactPosition</text>
+</g>
+<!-- faldo:Region&#45;&gt;faldo:ExactPosition -->
+<g id="edge11" class="edge">
+<title>faldo:Region-&gt;faldo:ExactPosition</title>
+<path fill="none" stroke="#046582" d="M49.1171,-135.094C58.6924,-115.8126 76.368,-85.4784 100.0381,-67.4 123.8811,-49.1896 154.9665,-37.3465 181.8662,-29.8362"/>
+<polygon fill="#046582" stroke="#046582" points="182.7987,-33.21 191.566,-27.2615 181.0028,-26.4442 182.7987,-33.21"/>
+<text text-anchor="middle" x="130.9285" y="-69.4" font-family="Times,serif" font-size="8.00" fill="#000000">faldo:location</text>
+</g>
+<!-- obo:NCIT_C25402 -->
+<g id="node4" class="node">
+<title>obo:NCIT_C25402</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="456.5553" cy="-186" rx="56.2799" ry="18"/>
+<text text-anchor="middle" x="456.5553" y="-183" font-family="Times,serif" font-size="10.00" fill="#000000">obo:NCIT_C25402</text>
+</g>
+<!-- obo:GENO_0000960&#45;&gt;obo:NCIT_C25402 -->
+<g id="edge5" class="edge">
+<title>obo:GENO_0000960-&gt;obo:NCIT_C25402</title>
+<path fill="none" stroke="#046582" d="M302.1082,-186C329.5042,-186 361.8702,-186 389.8779,-186"/>
+<polygon fill="#046582" stroke="#046582" points="389.9821,-189.5001 399.9821,-186 389.982,-182.5001 389.9821,-189.5001"/>
+<text text-anchor="middle" x="351.055" y="-188.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:ERO_0000405</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="589pt" height="454pt" viewBox="0.00 0.00 588.50 454.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 450)">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-450 584.5009,-450 584.5009,4 -4,4"/>
+<!-- :Gene -->
+<g id="node1" class="node">
+<title>:Gene</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="27" cy="-207" rx="27" ry="18"/>
+<text text-anchor="middle" x="27" y="-204" font-family="Times,serif" font-size="10.00" fill="#000000">:Gene</text>
+</g>
+<!-- :Allele -->
+<g id="node2" class="node">
+<title>:Allele</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="247.2562" cy="-388" rx="27" ry="18"/>
+<text text-anchor="middle" x="247.2562" y="-385" font-family="Times,serif" font-size="10.00" fill="#000000">:Allele</text>
+</g>
+<!-- :Gene&#45;&gt;:Allele -->
+<g id="edge1" class="edge">
+<title>:Gene-&gt;:Allele</title>
+<path fill="none" stroke="#046582" d="M30.4636,-225.1014C37.3519,-259.2303 53.6938,-331.1795 72,-348 109.5756,-382.5261 170.6466,-389.266 209.871,-389.6293"/>
+<polygon fill="#046582" stroke="#046582" points="210.0892,-393.1285 220.0739,-389.5849 210.0587,-386.1286 210.0892,-393.1285"/>
+<text text-anchor="middle" x="116.4288" y="-387.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:GENO_0000413</text>
+</g>
+<!-- :SubGroup -->
+<g id="node3" class="node">
+<title>:SubGroup</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="247.2562" cy="-334" rx="36.0234" ry="18"/>
+<text text-anchor="middle" x="247.2562" y="-331" font-family="Times,serif" font-size="10.00" fill="#000000">:SubGroup</text>
+</g>
+<!-- :Gene&#45;&gt;:SubGroup -->
+<g id="edge2" class="edge">
+<title>:Gene-&gt;:SubGroup</title>
+<path fill="none" stroke="#046582" d="M30.4003,-225.1816C35.4809,-246.9968 47.2419,-283.0019 72,-302 108.8958,-330.3119 162.9108,-336.405 201.2063,-336.6128"/>
+<polygon fill="#046582" stroke="#046582" points="201.5922,-340.1099 211.5635,-336.5289 201.5354,-333.1101 201.5922,-340.1099"/>
+<text text-anchor="middle" x="116.4288" y="-336.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:RO_0002350</text>
+</g>
+<!-- :Group -->
+<g id="node4" class="node">
+<title>:Group</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="502.0726" cy="-288" rx="27" ry="18"/>
+<text text-anchor="middle" x="502.0726" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">:Group</text>
+</g>
+<!-- :Gene&#45;&gt;:Group -->
+<g id="edge3" class="edge">
+<title>:Gene-&gt;:Group</title>
+<path fill="none" stroke="#046582" d="M45.0308,-220.6431C52.9559,-226.0923 62.5879,-232.008 72,-236 116.9028,-255.045 130.6813,-253.3833 178.8576,-261 281.695,-277.2587 404.5898,-284.1162 464.9226,-286.6712"/>
+<polygon fill="#046582" stroke="#046582" points="464.9612,-290.1756 475.0956,-287.086 465.2465,-283.1814 464.9612,-290.1756"/>
+<text text-anchor="middle" x="247.2562" y="-278.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:RO_0002350</text>
+</g>
+<!-- :Clan -->
+<g id="node5" class="node">
+<title>:Clan</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="247.2562" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="247.2562" y="-231" font-family="Times,serif" font-size="10.00" fill="#000000">:Clan</text>
+</g>
+<!-- :Gene&#45;&gt;:Clan -->
+<g id="edge4" class="edge">
+<title>:Gene-&gt;:Clan</title>
+<path fill="none" stroke="#046582" d="M53.568,-210.2568C92.7603,-215.0612 166.2045,-224.0643 210.528,-229.4977"/>
+<polygon fill="#046582" stroke="#046582" points="210.2423,-232.9888 220.5939,-230.7316 211.0941,-226.0408 210.2423,-232.9888"/>
+<text text-anchor="middle" x="116.4288" y="-224.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:RO_0002350</text>
+</g>
+<!-- :MoleculeStructureType -->
+<g id="node6" class="node">
+<title>:MoleculeStructureType</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="247.2562" cy="-180" rx="68.2973" ry="18"/>
+<text text-anchor="middle" x="247.2562" y="-177" font-family="Times,serif" font-size="10.00" fill="#000000">:MoleculeStructureType</text>
+</g>
+<!-- :Gene&#45;&gt;:MoleculeStructureType -->
+<g id="edge7" class="edge">
+<title>:Gene-&gt;:MoleculeStructureType</title>
+<path fill="none" stroke="#046582" d="M53.1115,-201.6241C59.2877,-200.4597 65.8626,-199.307 72,-198.4 104.4934,-193.5981 140.5573,-189.5876 171.4817,-186.5493"/>
+<polygon fill="#046582" stroke="#046582" points="172.1423,-190.0018 181.7594,-185.5564 171.4692,-183.0343 172.1423,-190.0018"/>
+<text text-anchor="middle" x="116.4288" y="-200.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasMoleculeStructureType</text>
+</g>
+<!-- :GeneType -->
+<g id="node7" class="node">
+<title>:GeneType</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="247.2562" cy="-126" rx="36.1712" ry="18"/>
+<text text-anchor="middle" x="247.2562" y="-123" font-family="Times,serif" font-size="10.00" fill="#000000">:GeneType</text>
+</g>
+<!-- :Gene&#45;&gt;:GeneType -->
+<g id="edge8" class="edge">
+<title>:Gene-&gt;:GeneType</title>
+<path fill="none" stroke="#046582" d="M43.5297,-192.2834C51.6365,-185.7101 61.8295,-178.3475 72,-173.4 113.9711,-152.9829 166.025,-140.3264 202.4545,-133.2837"/>
+<polygon fill="#046582" stroke="#046582" points="203.1072,-136.7224 212.2938,-131.4444 201.8209,-129.8416 203.1072,-136.7224"/>
+<text text-anchor="middle" x="116.4288" y="-175.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasGeneType</text>
+</g>
+<!-- :Locus -->
+<g id="node8" class="node">
+<title>:Locus</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="247.2562" cy="-72" rx="27" ry="18"/>
+<text text-anchor="middle" x="247.2562" y="-69" font-family="Times,serif" font-size="10.00" fill="#000000">:Locus</text>
+</g>
+<!-- :Gene&#45;&gt;:Locus -->
+<g id="edge9" class="edge">
+<title>:Gene-&gt;:Locus</title>
+<path fill="none" stroke="#046582" d="M32.8664,-189.1465C39.6046,-171.3184 52.3326,-144.3397 72,-128.4 112.2886,-95.7476 171.9045,-81.8295 210.1667,-76.0146"/>
+<polygon fill="#046582" stroke="#046582" points="210.9438,-79.4398 220.3586,-74.5805 209.9684,-72.5081 210.9438,-79.4398"/>
+<text text-anchor="middle" x="116.4288" y="-130.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isOrderedIn</text>
+</g>
+<!-- obo:NCBITaxon_1 -->
+<g id="node9" class="node">
+<title>obo:NCBITaxon_1</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="247.2562" cy="-18" rx="56.105" ry="18"/>
+<text text-anchor="middle" x="247.2562" y="-15" font-family="Times,serif" font-size="10.00" fill="#000000">obo:NCBITaxon_1</text>
+</g>
+<!-- :Gene&#45;&gt;obo:NCBITaxon_1 -->
+<g id="edge10" class="edge">
+<title>:Gene-&gt;obo:NCBITaxon_1</title>
+<path fill="none" stroke="#046582" d="M28.0494,-188.7262C30.674,-160.1616 39.8597,-104.9442 72,-73.4 101.4562,-44.4901 145.884,-30.6513 182.636,-24.0342"/>
+<polygon fill="#046582" stroke="#046582" points="183.4866,-27.4411 192.7796,-22.3529 182.3418,-20.5353 183.4866,-27.4411"/>
+<text text-anchor="middle" x="116.4288" y="-75.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:RO_0002162</text>
+</g>
+<!-- :MoleculeFunctionalityType -->
+<g id="node10" class="node">
+<title>:MoleculeFunctionalityType</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="502.0726" cy="-428" rx="78.3566" ry="18"/>
+<text text-anchor="middle" x="502.0726" y="-425" font-family="Times,serif" font-size="10.00" fill="#000000">:MoleculeFunctionalityType</text>
+</g>
+<!-- :Allele&#45;&gt;:MoleculeFunctionalityType -->
+<g id="edge11" class="edge">
+<title>:Allele-&gt;:MoleculeFunctionalityType</title>
+<path fill="none" stroke="#046582" d="M273.5662,-392.13C309.4488,-397.7627 375.1901,-408.0825 426.9772,-416.2118"/>
+<polygon fill="#046582" stroke="#046582" points="426.7137,-419.7133 437.1356,-417.8065 427.7993,-412.7979 426.7137,-419.7133"/>
+<text text-anchor="middle" x="369.6495" y="-414.4" font-family="Times,serif" font-size="8.00" fill="#000000">:hasFunctionalityType</text>
+</g>
+<!-- faldo:Region -->
+<g id="node11" class="node">
+<title>faldo:Region</title>
+<ellipse fill="#ffc996" stroke="#ffc996" cx="502.0726" cy="-374" rx="41.0381" ry="18"/>
+<text text-anchor="middle" x="502.0726" y="-371" font-family="Times,serif" font-size="10.00" fill="#000000">faldo:Region</text>
+</g>
+<!-- :Allele&#45;&gt;faldo:Region -->
+<g id="edge12" class="edge">
+<title>:Allele-&gt;faldo:Region</title>
+<path fill="none" stroke="#046582" d="M274.526,-386.5018C316.5336,-384.1938 397.7754,-379.7302 450.9525,-376.8086"/>
+<polygon fill="#046582" stroke="#046582" points="451.4009,-380.2894 461.1938,-376.2459 451.0168,-373.2999 451.4009,-380.2894"/>
+<text text-anchor="middle" x="369.6495" y="-385.4" font-family="Times,serif" font-size="8.00" fill="#000000">:isInRefSequence</text>
+</g>
+<!-- :SubGroup&#45;&gt;:Group -->
+<g id="edge5" class="edge">
+<title>:SubGroup-&gt;:Group</title>
+<path fill="none" stroke="#046582" d="M281.3574,-327.844C329.4692,-319.1587 416.8757,-303.3799 466.023,-294.5077"/>
+<polygon fill="#046582" stroke="#046582" points="466.6828,-297.9453 475.9019,-292.7244 465.4392,-291.0566 466.6828,-297.9453"/>
+<text text-anchor="middle" x="369.6495" y="-319.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:RO_0002350</text>
+</g>
+<!-- :Clan&#45;&gt;:Group -->
+<g id="edge6" class="edge">
+<title>:Clan-&gt;:Group</title>
+<path fill="none" stroke="#046582" d="M273.4037,-238.6015C304.8735,-244.2359 359.2755,-254.2827 405.6443,-264.4 426.0089,-268.8434 448.6528,-274.3555 466.8775,-278.9348"/>
+<polygon fill="#046582" stroke="#046582" points="466.2222,-282.3792 476.7752,-281.439 467.9392,-275.5931 466.2222,-282.3792"/>
+<text text-anchor="middle" x="369.6495" y="-266.4" font-family="Times,serif" font-size="8.00" fill="#000000">obo:RO_0002350</text>
+</g>
+</g>
+</svg>
